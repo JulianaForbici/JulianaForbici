@@ -13,7 +13,7 @@
             <p>📚 Estudo C# no Entra21</p>
         </td>
     </tr>
-    
+    <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/73e50a4e5f598b67695f395b0dbc1fd4.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">https://picasion.com/</a>
 </table>
   <br>
   <a href="https://github.com/JulianaForbici">
