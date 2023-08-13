@@ -1,10 +1,10 @@
 ### <h1 align="center">< Olá, meu nome é Juliana Forbici <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> />
-<div align="center"></h1>
-  <td>
-    <table>  
-      <p>😄 Meus pronomes são Ela/Dela.</p>
-    </table>
- </td>
+<table align="center">
+    <tr>
+        <td>
+            <p>😄 Meus pronomes são Ela/Dela.</p>
+        </td>
+    </tr>
   <br>
 <table align="center">
   <br>
