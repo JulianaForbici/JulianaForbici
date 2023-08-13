@@ -14,7 +14,6 @@
     </tr>
    <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/73e50a4e5f598b67695f395b0dbc1fd4.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
 </table>
-  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/73e50a4e5f598b67695f395b0dbc1fd4.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
   <br>
   <a href="https://github.com/JulianaForbici">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianaForbici&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
@@ -25,7 +24,6 @@
   <img align="center" alt="Ju-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ju-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) <a href="https://picasion.com/">
  
 </div>
 
