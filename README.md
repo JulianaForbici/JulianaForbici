@@ -9,9 +9,8 @@
         </td>
     </tr>
 </table>
-  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/73e50a4e5f598b67695f395b0dbc1fd4.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
-  <br>
-  <a href="https://github.com/JulianaForbici">
+ <a href="https://github.com/JulianaForbici">
+  <img align="center" alt="Ju-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ju-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ju-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ju-Csharp" height="30" width="40">
@@ -19,5 +18,6 @@
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) <a href="https://picasion.com/">
 </div>
+
 
 
