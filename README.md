@@ -41,7 +41,7 @@
   GERAR - Geração de Emprego, Renda e Apoio ao Desenvolvimento Regional  
   Competências: Administração · Comunicação · Recursos humanos (RH) · Suporte ao cliente
 
-- **[Excel Avançado]https://www.sp.senai.br/curso/excel-avancado/94033)**
+- **[Excel Avançado](https://www.sp.senai.br/curso/excel-avancado/94033)**
 
 <div align="center">
   <img src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-118.gif" width="300" alt="Gif animado">
