@@ -2,7 +2,7 @@
 
 <h2 align="center">Sobre Mim</h2>
 <p align="center">
-  🍄 Sou uma estudante de programação e apaixonada por tecnologia. Estou em busca de oportunidades para crescer na carreira e aplicar meus conhecimentos em projetos! 🍄
+  🍄 Sou uma estudante de programação e apaixonada por tecnologia. 🍄
 <div align="center">
   <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" alt="animated">
 </div>
