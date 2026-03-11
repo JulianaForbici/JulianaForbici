@@ -38,9 +38,3 @@
 <div align="right">
   <img src="https://img1.picmix.com/output/stamp/thumb/5/7/5/4/1894575_2160f.gif" width="100" alt="pinguim">
 </div>
-
-<div align="center">
-  <a href="https://github.com/JulianaForbici"> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianaForbici&show_icons=true&theme=dracula&include_all_commits=false&count_private=true" alt="Juliana's GitHub stats"> 
-  </a> 
-</div>
